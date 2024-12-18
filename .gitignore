@@ -1,0 +1,6 @@
+/.metadata/
+DSA/.classpath
+DSA/.project
+DSA/.settings/org.eclipse.core.resources.prefs
+DSA/.settings/org.eclipse.jdt.core.prefs
+*.class
